@@ -1,2 +1,12 @@
-1234 oumayma bouchnaf 3@333  ADMIN
-1235 meryam  jamili   4@444  secretere
+1234 bouchnaf oumayma 3@333 ADMIN
+1235 Elhadi Karim karim123 secretere
+1236 Bennani Salma salma2025 gestion_voitures
+1237 Alaoui Yassine yas@987 agent_location
+1238 Mouhsine Imane imane456 comptabilite
+1239 Raji Amine amine789 maintenance
+1111 Fassi Meriem meriem321 reception
+2222 Bouhbal Anas anas159 agent_location
+3333 Chakir Houda houda777 gestion_clients
+4444 Tahiri Omar omar000 securite
+5555 Ziani Rachid rachid555 agent_location
+9999 lbyed hajar 9999 responsable_employe
